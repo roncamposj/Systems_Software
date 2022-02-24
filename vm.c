@@ -29,7 +29,7 @@ FILE *ofp;
 
 
 
-// Instruction register.
+// Instruction register./
 struct instruction ir;
 int pas[MAX_STACK_HEIGHT] = {0};
 
