@@ -1,5 +1,4 @@
 /*
- Derek Dyer
  Ronald Campos
 
 Skeleton code provided has been altered
