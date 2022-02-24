@@ -28,7 +28,7 @@ typedef enum {
     procsym = 31, identsym = 32, numbersym = 33
 
 
-//struct used to contain all tokens details
+//struct used to contain all tokens details/
 typedef struct {
     token_type tokenID;
     int numberValue;
